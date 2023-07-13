@@ -44,6 +44,7 @@
 Run the Project on Local Machine and Hit the Swagger URL
 
 **Swagger Url** : http://{Your_Server}:{Port}/swagger-ui.html
-Example : http://localhost:8081/swagger-ui/index.html
 
-![Alt text](image-1.png)
+**Example** : http://localhost:8080/swagger-ui/index.html
+
+![image-1](https://github.com/shirishjaiswal/User-Location/assets/98471211/850fdd50-ed51-4444-ae9b-e4f9629234ca)
