@@ -43,6 +43,7 @@
 ## **Documentation**
 Run the Project on Local Machine and Hit the Swagger URL
 
-**Swagger Url** : http://localhost:8081/swagger-ui/index.html
+**Swagger Url** : http://{Your_Server}:{Port}/swagger-ui.html
+Example : http://localhost:8081/swagger-ui/index.html
 
 ![Alt text](image-1.png)
